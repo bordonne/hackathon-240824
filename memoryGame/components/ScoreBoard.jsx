@@ -10,7 +10,7 @@
 //];
 
 import React from 'react';
-import './ScoreBoard.css';
+//import './ScoreBoard.css';
 
 function ScoreBoard({ moves, time }) {
     const formatTime = (time) => {

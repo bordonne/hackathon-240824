@@ -1,12 +1,122 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\freshong\\OneDrive\\Desktop\\memoryGame\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|c:\\users\\freshong\\source\\repos\\hackathon-240824\\memorygame\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|c:\\users\\freshong\\source\\repos\\hackathon-240824\\memorygame\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|c:\\users\\freshong\\source\\repos\\hackathon-240824\\memorygame\\components\\scoreboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|solutionrelative:components\\scoreboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|c:\\users\\freshong\\source\\repos\\hackathon-240824\\memorygame\\components\\gameboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|solutionrelative:components\\gameboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|c:\\users\\freshong\\source\\repos\\hackathon-240824\\memorygame\\components\\card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|solutionrelative:components\\card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|c:\\users\\freshong\\source\\repos\\hackathon-240824\\memorygame\\memorygame.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48DED9C9-1500-4013-ABA0-B24E1FBFEB89}|memorygame.esproj|solutionrelative:memorygame.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\src\\App.jsx*",
+              "RelativeToolTip": "src\\App.jsx*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAC+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-24T19:48:51.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameBoard.jsx",
+              "DocumentMoniker": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\components\\GameBoard.jsx",
+              "RelativeDocumentMoniker": "components\\GameBoard.jsx",
+              "ToolTip": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\components\\GameBoard.jsx",
+              "RelativeToolTip": "components\\GameBoard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-24T19:43:01.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreBoard.jsx",
+              "DocumentMoniker": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\components\\ScoreBoard.jsx",
+              "RelativeDocumentMoniker": "components\\ScoreBoard.jsx",
+              "ToolTip": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\components\\ScoreBoard.jsx",
+              "RelativeToolTip": "components\\ScoreBoard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-24T19:42:56.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.css",
+              "DocumentMoniker": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\components\\Card.css",
+              "RelativeDocumentMoniker": "components\\Card.css",
+              "ToolTip": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\components\\Card.css",
+              "RelativeToolTip": "components\\Card.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-24T18:42:41.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "memorygame",
+              "DocumentMoniker": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\memorygame.esproj",
+              "RelativeDocumentMoniker": "memorygame.esproj",
+              "ToolTip": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\memorygame.esproj",
+              "RelativeToolTip": "memorygame.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T18:37:20.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\freshong\\source\\repos\\hackathon-240824\\memoryGame\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-24T18:04:17.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

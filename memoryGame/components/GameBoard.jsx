@@ -11,7 +11,7 @@
 
 import React from 'react';
 import Card from './Card';
-import './GameBoard.css';
+//import './GameBoard.css';
 
 function GameBoard({ cards, onCardClick }) {
     return (
